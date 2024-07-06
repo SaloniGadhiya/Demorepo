@@ -1,1 +1,1 @@
-# DevOps Demo Repositiry
+# DevOps Demo Repositories
